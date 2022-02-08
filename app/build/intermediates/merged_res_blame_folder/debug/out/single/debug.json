@@ -4,12 +4,12 @@
         "source": "D:\\Android\\android-basics-kotlin-dogglers-app\\app\\src\\main\\res\\layout\\grid_list_item.xml"
     },
     {
-        "merged": "D:\\Android\\android-basics-kotlin-dogglers-app\\app\\build\\intermediates\\merged_res\\debug\\drawable_tzeitel.jpg.flat",
-        "source": "D:\\Android\\android-basics-kotlin-dogglers-app\\app\\src\\main\\res\\drawable\\tzeitel.jpg"
-    },
-    {
         "merged": "D:\\Android\\android-basics-kotlin-dogglers-app\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_horizontal_list.xml.flat",
         "source": "D:\\Android\\android-basics-kotlin-dogglers-app\\app\\src\\main\\res\\layout\\activity_horizontal_list.xml"
+    },
+    {
+        "merged": "D:\\Android\\android-basics-kotlin-dogglers-app\\app\\build\\intermediates\\merged_res\\debug\\drawable_tzeitel.jpg.flat",
+        "source": "D:\\Android\\android-basics-kotlin-dogglers-app\\app\\src\\main\\res\\drawable\\tzeitel.jpg"
     },
     {
         "merged": "D:\\Android\\android-basics-kotlin-dogglers-app\\app\\build\\intermediates\\merged_res\\debug\\drawable_nox.jpg.flat",
