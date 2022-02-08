@@ -20,6 +20,7 @@ import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.example.dogglers.R
@@ -45,7 +46,10 @@ class DogCardAdapter(
      */
     class DogCardViewHolder(view: View?): RecyclerView.ViewHolder(view!!) {
         // TODO: Declare and initialize all of the list item UI components
+        val dogImage: ImageView = view!!.findViewById(R.id.dog_image)
         val dogName: TextView = view!!.findViewById(R.id.dog_name)
+        val dogAge: TextView = view!!.findViewById(R.id.dog_age)
+        val dogHobbies: TextView = view!!.findViewById(R.id.dog_hobbies)
 
     }
 
@@ -71,13 +75,16 @@ class DogCardAdapter(
         val dog = dogs[position]
         Log.d("vvvib", "on Bind view holder: $position, dog: ${dog.name}")
         // TODO: Set the image resource for the current dog
+        holder.dogImage.setImageResource(dog.imageResourceId)
         // TODO: Set the text for the current dog's name
         holder.dogName.text = dog.name
         // TODO: Set the text for the current dog's age
+        holder.dogAge.text = "Age: ${dog.age}"
         val resources = context?.resources
         // TODO: Set the text for the current dog's hobbies by passing the hobbies to the
         //  R.string.dog_hobbies string constant.
         //  Passing an argument to the string resource looks like:
         //  resources?.getString(R.string.dog_hobbies, dog.hobbies)
+        holder.dogHobbies.text = "Hobbies: ${dog.hobbies}"
     }
 }

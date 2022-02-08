@@ -26,15 +26,15 @@
 24-->D:\Android\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml
 25
 26    <uses-permission android:name="android.permission.REORDER_TASKS" />
-26-->[androidx.fragment:fragment-testing:1.3.3] C:\Users\vibru\.gradle\caches\transforms-3\ff15852bea921d2de1ff9c6648d7e08b\transformed\jetified-fragment-testing-1.3.3\AndroidManifest.xml:25:5-72
-26-->[androidx.fragment:fragment-testing:1.3.3] C:\Users\vibru\.gradle\caches\transforms-3\ff15852bea921d2de1ff9c6648d7e08b\transformed\jetified-fragment-testing-1.3.3\AndroidManifest.xml:25:22-69
+26-->[androidx.fragment:fragment-testing:1.3.3] C:\Users\vibru\.gradle\caches\transforms-3\4430e47f15d7c064e5751d6afe0315a7\transformed\jetified-fragment-testing-1.3.3\AndroidManifest.xml:25:5-72
+26-->[androidx.fragment:fragment-testing:1.3.3] C:\Users\vibru\.gradle\caches\transforms-3\4430e47f15d7c064e5751d6afe0315a7\transformed\jetified-fragment-testing-1.3.3\AndroidManifest.xml:25:22-69
 27
 28    <application
 28-->D:\Android\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:20:5-49:19
 29        android:allowBackup="true"
 29-->D:\Android\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:21:9-35
 30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-30-->[androidx.core:core:1.3.2] C:\Users\vibru\.gradle\caches\transforms-3\8c3bd52b57f7a624d4d1c204e3d3fe97\transformed\core-1.3.2\AndroidManifest.xml:24:18-86
+30-->[androidx.core:core:1.3.2] C:\Users\vibru\.gradle\caches\transforms-3\7f6ad6228dc107ba7aceb18ef4a47526\transformed\core-1.3.2\AndroidManifest.xml:24:18-86
 31        android:debuggable="true"
 32        android:icon="@mipmap/ic_launcher"
 32-->D:\Android\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:22:9-43
@@ -92,58 +92,58 @@
 58            </intent-filter>
 59        </activity>
 60        <activity
-60-->[androidx.fragment:fragment-testing:1.3.3] C:\Users\vibru\.gradle\caches\transforms-3\ff15852bea921d2de1ff9c6648d7e08b\transformed\jetified-fragment-testing-1.3.3\AndroidManifest.xml:28:9-37:20
+60-->[androidx.fragment:fragment-testing:1.3.3] C:\Users\vibru\.gradle\caches\transforms-3\4430e47f15d7c064e5751d6afe0315a7\transformed\jetified-fragment-testing-1.3.3\AndroidManifest.xml:28:9-37:20
 61            android:name="androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity"
-61-->[androidx.fragment:fragment-testing:1.3.3] C:\Users\vibru\.gradle\caches\transforms-3\ff15852bea921d2de1ff9c6648d7e08b\transformed\jetified-fragment-testing-1.3.3\AndroidManifest.xml:29:13-96
+61-->[androidx.fragment:fragment-testing:1.3.3] C:\Users\vibru\.gradle\caches\transforms-3\4430e47f15d7c064e5751d6afe0315a7\transformed\jetified-fragment-testing-1.3.3\AndroidManifest.xml:29:13-96
 62            android:exported="true"
-62-->[androidx.fragment:fragment-testing:1.3.3] C:\Users\vibru\.gradle\caches\transforms-3\ff15852bea921d2de1ff9c6648d7e08b\transformed\jetified-fragment-testing-1.3.3\AndroidManifest.xml:30:13-36
+62-->[androidx.fragment:fragment-testing:1.3.3] C:\Users\vibru\.gradle\caches\transforms-3\4430e47f15d7c064e5751d6afe0315a7\transformed\jetified-fragment-testing-1.3.3\AndroidManifest.xml:30:13-36
 63            android:multiprocess="true"
-63-->[androidx.fragment:fragment-testing:1.3.3] C:\Users\vibru\.gradle\caches\transforms-3\ff15852bea921d2de1ff9c6648d7e08b\transformed\jetified-fragment-testing-1.3.3\AndroidManifest.xml:31:13-40
+63-->[androidx.fragment:fragment-testing:1.3.3] C:\Users\vibru\.gradle\caches\transforms-3\4430e47f15d7c064e5751d6afe0315a7\transformed\jetified-fragment-testing-1.3.3\AndroidManifest.xml:31:13-40
 64            android:taskAffinity=""
-64-->[androidx.fragment:fragment-testing:1.3.3] C:\Users\vibru\.gradle\caches\transforms-3\ff15852bea921d2de1ff9c6648d7e08b\transformed\jetified-fragment-testing-1.3.3\AndroidManifest.xml:32:13-36
+64-->[androidx.fragment:fragment-testing:1.3.3] C:\Users\vibru\.gradle\caches\transforms-3\4430e47f15d7c064e5751d6afe0315a7\transformed\jetified-fragment-testing-1.3.3\AndroidManifest.xml:32:13-36
 65            android:theme="@style/FragmentScenarioEmptyFragmentActivityTheme" >
-65-->[androidx.fragment:fragment-testing:1.3.3] C:\Users\vibru\.gradle\caches\transforms-3\ff15852bea921d2de1ff9c6648d7e08b\transformed\jetified-fragment-testing-1.3.3\AndroidManifest.xml:33:13-78
+65-->[androidx.fragment:fragment-testing:1.3.3] C:\Users\vibru\.gradle\caches\transforms-3\4430e47f15d7c064e5751d6afe0315a7\transformed\jetified-fragment-testing-1.3.3\AndroidManifest.xml:33:13-78
 66            <intent-filter>
-66-->[androidx.fragment:fragment-testing:1.3.3] C:\Users\vibru\.gradle\caches\transforms-3\ff15852bea921d2de1ff9c6648d7e08b\transformed\jetified-fragment-testing-1.3.3\AndroidManifest.xml:34:13-36:29
+66-->[androidx.fragment:fragment-testing:1.3.3] C:\Users\vibru\.gradle\caches\transforms-3\4430e47f15d7c064e5751d6afe0315a7\transformed\jetified-fragment-testing-1.3.3\AndroidManifest.xml:34:13-36:29
 67                <action android:name="android.intent.action.MAIN" />
 67-->D:\Android\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:44:17-69
 67-->D:\Android\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:44:25-66
 68            </intent-filter>
 69        </activity>
 70        <activity
-70-->[androidx.test:core:1.3.0] C:\Users\vibru\.gradle\caches\transforms-3\a6d8135ca0cd27d4cc3085e24fa0e028\transformed\jetified-core-1.3.0\AndroidManifest.xml:27:9-33:20
+70-->[androidx.test:core:1.3.0] C:\Users\vibru\.gradle\caches\transforms-3\a543598eeec23cf933d16f48dc5ff936\transformed\jetified-core-1.3.0\AndroidManifest.xml:27:9-33:20
 71            android:name="androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity"
-71-->[androidx.test:core:1.3.0] C:\Users\vibru\.gradle\caches\transforms-3\a6d8135ca0cd27d4cc3085e24fa0e028\transformed\jetified-core-1.3.0\AndroidManifest.xml:28:13-99
+71-->[androidx.test:core:1.3.0] C:\Users\vibru\.gradle\caches\transforms-3\a543598eeec23cf933d16f48dc5ff936\transformed\jetified-core-1.3.0\AndroidManifest.xml:28:13-99
 72            android:theme="@android:style/Theme" >
-72-->[androidx.test:core:1.3.0] C:\Users\vibru\.gradle\caches\transforms-3\a6d8135ca0cd27d4cc3085e24fa0e028\transformed\jetified-core-1.3.0\AndroidManifest.xml:29:13-49
+72-->[androidx.test:core:1.3.0] C:\Users\vibru\.gradle\caches\transforms-3\a543598eeec23cf933d16f48dc5ff936\transformed\jetified-core-1.3.0\AndroidManifest.xml:29:13-49
 73            <intent-filter>
-73-->[androidx.fragment:fragment-testing:1.3.3] C:\Users\vibru\.gradle\caches\transforms-3\ff15852bea921d2de1ff9c6648d7e08b\transformed\jetified-fragment-testing-1.3.3\AndroidManifest.xml:34:13-36:29
+73-->[androidx.fragment:fragment-testing:1.3.3] C:\Users\vibru\.gradle\caches\transforms-3\4430e47f15d7c064e5751d6afe0315a7\transformed\jetified-fragment-testing-1.3.3\AndroidManifest.xml:34:13-36:29
 74                <action android:name="android.intent.action.MAIN" />
 74-->D:\Android\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:44:17-69
 74-->D:\Android\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:44:25-66
 75            </intent-filter>
 76        </activity>
 77        <activity
-77-->[androidx.test:core:1.3.0] C:\Users\vibru\.gradle\caches\transforms-3\a6d8135ca0cd27d4cc3085e24fa0e028\transformed\jetified-core-1.3.0\AndroidManifest.xml:34:9-40:20
+77-->[androidx.test:core:1.3.0] C:\Users\vibru\.gradle\caches\transforms-3\a543598eeec23cf933d16f48dc5ff936\transformed\jetified-core-1.3.0\AndroidManifest.xml:34:9-40:20
 78            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity"
-78-->[androidx.test:core:1.3.0] C:\Users\vibru\.gradle\caches\transforms-3\a6d8135ca0cd27d4cc3085e24fa0e028\transformed\jetified-core-1.3.0\AndroidManifest.xml:35:13-95
+78-->[androidx.test:core:1.3.0] C:\Users\vibru\.gradle\caches\transforms-3\a543598eeec23cf933d16f48dc5ff936\transformed\jetified-core-1.3.0\AndroidManifest.xml:35:13-95
 79            android:theme="@android:style/Theme" >
-79-->[androidx.test:core:1.3.0] C:\Users\vibru\.gradle\caches\transforms-3\a6d8135ca0cd27d4cc3085e24fa0e028\transformed\jetified-core-1.3.0\AndroidManifest.xml:36:13-49
+79-->[androidx.test:core:1.3.0] C:\Users\vibru\.gradle\caches\transforms-3\a543598eeec23cf933d16f48dc5ff936\transformed\jetified-core-1.3.0\AndroidManifest.xml:36:13-49
 80            <intent-filter>
-80-->[androidx.fragment:fragment-testing:1.3.3] C:\Users\vibru\.gradle\caches\transforms-3\ff15852bea921d2de1ff9c6648d7e08b\transformed\jetified-fragment-testing-1.3.3\AndroidManifest.xml:34:13-36:29
+80-->[androidx.fragment:fragment-testing:1.3.3] C:\Users\vibru\.gradle\caches\transforms-3\4430e47f15d7c064e5751d6afe0315a7\transformed\jetified-fragment-testing-1.3.3\AndroidManifest.xml:34:13-36:29
 81                <action android:name="android.intent.action.MAIN" />
 81-->D:\Android\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:44:17-69
 81-->D:\Android\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:44:25-66
 82            </intent-filter>
 83        </activity>
 84        <activity
-84-->[androidx.test:core:1.3.0] C:\Users\vibru\.gradle\caches\transforms-3\a6d8135ca0cd27d4cc3085e24fa0e028\transformed\jetified-core-1.3.0\AndroidManifest.xml:41:9-47:20
+84-->[androidx.test:core:1.3.0] C:\Users\vibru\.gradle\caches\transforms-3\a543598eeec23cf933d16f48dc5ff936\transformed\jetified-core-1.3.0\AndroidManifest.xml:41:9-47:20
 85            android:name="androidx.test.core.app.InstrumentationActivityInvoker$EmptyFloatingActivity"
-85-->[androidx.test:core:1.3.0] C:\Users\vibru\.gradle\caches\transforms-3\a6d8135ca0cd27d4cc3085e24fa0e028\transformed\jetified-core-1.3.0\AndroidManifest.xml:42:13-103
+85-->[androidx.test:core:1.3.0] C:\Users\vibru\.gradle\caches\transforms-3\a543598eeec23cf933d16f48dc5ff936\transformed\jetified-core-1.3.0\AndroidManifest.xml:42:13-103
 86            android:theme="@android:style/Theme.Dialog" >
-86-->[androidx.test:core:1.3.0] C:\Users\vibru\.gradle\caches\transforms-3\a6d8135ca0cd27d4cc3085e24fa0e028\transformed\jetified-core-1.3.0\AndroidManifest.xml:43:13-56
+86-->[androidx.test:core:1.3.0] C:\Users\vibru\.gradle\caches\transforms-3\a543598eeec23cf933d16f48dc5ff936\transformed\jetified-core-1.3.0\AndroidManifest.xml:43:13-56
 87            <intent-filter>
-87-->[androidx.fragment:fragment-testing:1.3.3] C:\Users\vibru\.gradle\caches\transforms-3\ff15852bea921d2de1ff9c6648d7e08b\transformed\jetified-fragment-testing-1.3.3\AndroidManifest.xml:34:13-36:29
+87-->[androidx.fragment:fragment-testing:1.3.3] C:\Users\vibru\.gradle\caches\transforms-3\4430e47f15d7c064e5751d6afe0315a7\transformed\jetified-fragment-testing-1.3.3\AndroidManifest.xml:34:13-36:29
 88                <action android:name="android.intent.action.MAIN" />
 88-->D:\Android\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:44:17-69
 88-->D:\Android\android-basics-kotlin-dogglers-app\app\src\main\AndroidManifest.xml:44:25-66
